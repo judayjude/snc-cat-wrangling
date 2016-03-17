@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-03-17 21:29:25</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ec07e7104f1a52001f6eac118110c7ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cat_wrangling_cat.x_cat_wrangling_cat_user</sys_name>
+        <sys_package display_value="Cat Wrangling" source="x_cat_wrangling">16862bdc4fd652001f6eac118110c70a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Cat Wrangling">16862bdc4fd652001f6eac118110c70a</sys_scope>
+        <sys_security_acl display_value="x_cat_wrangling_cat">2c07e7104f1a52001f6eac118110c7eb</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ec07e7104f1a52001f6eac118110c7ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-03-17 21:29:25</sys_updated_on>
+        <sys_user_role display_value="x_cat_wrangling_cat_user" name="x_cat_wrangling_cat_user">e7f623104f1a52001f6eac118110c7e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

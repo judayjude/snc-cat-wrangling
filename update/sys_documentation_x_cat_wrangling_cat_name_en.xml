@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="name" label="Name" language="en" table="x_cat_wrangling_cat">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <help/>
+            <hint/>
+            <label>Name</label>
+            <language>en</language>
+            <name>x_cat_wrangling_cat</name>
+            <plural>Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-03-17 21:29:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>11072b104f1a52001f6eac118110c718</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Name</sys_name>
+            <sys_package display_value="Cat Wrangling" source="x_cat_wrangling">16862bdc4fd652001f6eac118110c70a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Cat Wrangling">16862bdc4fd652001f6eac118110c70a</sys_scope>
+            <sys_update_name>sys_documentation_x_cat_wrangling_cat_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-03-17 21:29:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

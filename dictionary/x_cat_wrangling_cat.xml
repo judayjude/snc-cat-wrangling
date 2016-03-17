@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Cat" max_length="40" name="x_cat_wrangling_cat" type="collection">
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
